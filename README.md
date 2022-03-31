@@ -15,7 +15,7 @@ Repo created to document downloads and installs on my OS
 brew install git
 ```
 
-# Visual Studio Plugins
+# VSCode Extensions
 * Bracket Colorizing (Add the following to your settings.json)
 ```json
 "editor.bracketPairColorization.enabled": true,
